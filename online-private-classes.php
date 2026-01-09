@@ -62,7 +62,7 @@
       display: flex;
       gap: 40px;
       align-items: center;
-      flex-wrap: wrap;
+      /* flex-wrap: wrap; */
     }
 
     .col-6 {
@@ -223,7 +223,7 @@
     <div class="container">
       <div class="row">
         <div class="col-6">
-          <img src="images/daily-dropin-private-class.png" alt="Online Private Yoga Classes">
+          <img src="images/daily-dropin-private-clas.jpeg" alt="Online Private Yoga Classes">
         </div>
 
         <div class="col-6">

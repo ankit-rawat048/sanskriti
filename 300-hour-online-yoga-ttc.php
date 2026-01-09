@@ -33,25 +33,31 @@
       padding: 0 20px;
     }
 
+    .c-nneed {
+      visibility:hidden;
+    }
+
     section {
       padding: 80px 0;
     }
 
-    /* ===== Hero ===== */
+    /* ===== Hero Section ===== */
     .hero {
-      background: #d46793;
-      color: #ffffff;
+      background:/* linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)), */url("udatedImg/WhatsApp Image 2026-01-09 at 13.14.48 (1).jpeg")
+        center/cover no-repeat;
+      color: #fff;
       text-align: center;
-      padding: 100px 0;
+      padding: 140px 0;
     }
 
     .hero h1 {
       font-size: 44px;
+      font-weight: 700;
       margin-bottom: 15px;
     }
 
     .hero p {
-      max-width: 900px;
+      max-width: 750px;
       margin: auto;
       font-size: 18px;
       opacity: 0.95;
@@ -62,7 +68,7 @@
       display: flex;
       gap: 45px;
       align-items: center;
-      flex-wrap: wrap;
+      /* flex-wrap: wrap; */
     }
 
     .col-6 {
@@ -202,10 +208,10 @@
 
   <!-- HERO -->
   <section class="hero">
-    <div class="container">
+    <div class="container c-nneed">
       <h1>Online Yoga TTC – 300 Hour</h1>
       <p>
-        Advance your yoga practice, refine your teaching skills, and expand your mastery with an in-depth online training rooted in classical yogic wisdom.
+        Begin your yoga journey from the comfort of your home with authentic teachings from Rishikesh, the Yoga Capital of the World.
       </p>
     </div>
   </section>
@@ -215,7 +221,7 @@
     <div class="container">
       <div class="row">
         <div class="col-6">
-          <img src="images/online-300-yttc.png" alt="Online Yoga TTC 300 Hour">
+          <img src="images/online-300-ytt.jpeg" alt="Online Yoga TTC 300 Hour">
         </div>
 
         <div class="col-6">

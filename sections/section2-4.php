@@ -5,12 +5,12 @@
 
     <div class="course-single">
       <div class="dz-media">
-        <img src="images/200-hr-multistyle.png" alt="200 hrs yoga ttc in rishikesh">
+        <img src="images/200-hr-multistyl.jpeg" alt="200 hrs yoga ttc in rishikesh">
       </div>
 
       <div class="dz-info">
         <div class="post-author">
-          <img src="images/logo2.png" alt="Sanskriti Yogpeeth">
+          <img src="images/logo.jpeg" alt="Sanskriti Yogpeeth">
         </div>
 
         <h3 class="dz-title">

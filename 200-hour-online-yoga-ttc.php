@@ -33,25 +33,31 @@
       padding: 0 20px;
     }
 
+    .c-nneed {
+      visibility:hidden;
+    }
+
     section {
       padding: 70px 0;
     }
 
-    /* ===== Hero ===== */
+    /* ===== Hero Section ===== */
     .hero {
-      background: #d46793;
+      background:/* linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)), */url("udatedImg/WhatsApp Image 2026-01-09 at 12.27.41.jpeg")
+        center/cover no-repeat;
       color: #fff;
-      padding: 90px 0;
       text-align: center;
+      padding: 140px 0;
     }
 
     .hero h1 {
-      font-size: 42px;
+      font-size: 44px;
+      font-weight: 700;
       margin-bottom: 15px;
     }
 
     .hero p {
-      max-width: 850px;
+      max-width: 750px;
       margin: auto;
       font-size: 18px;
       opacity: 0.95;
@@ -62,7 +68,7 @@
       display: flex;
       gap: 40px;
       align-items: center;
-      flex-wrap: wrap;
+      /* flex-wrap: wrap; */
     }
 
     .col-6 {
@@ -197,14 +203,15 @@
 
 <body>
 <?php include('includes/header.php'); ?>
+
 <main>
     
   <!-- HERO -->
   <section class="hero">
-    <div class="container">
+    <div class="container c-nneed">
       <h1>Online Yoga TTC – 200 Hour</h1>
       <p>
-        Become a globally certified yoga teacher through authentic online training guided by traditional yogic wisdom from Rishikesh.
+        Begin your yoga journey from the comfort of your home with authentic teachings from Rishikesh, the Yoga Capital of the World.
       </p>
     </div>
   </section>
@@ -214,7 +221,7 @@
     <div class="container">
       <div class="row">
         <div class="col-6">
-          <img src="images/online-200-yttc.png" alt="Online Yoga TTC 200 Hour">
+          <img src="images/online-200-ytt.jpeg" alt="Online Yoga TTC 200 Hour">
         </div>
 
         <div class="col-6">

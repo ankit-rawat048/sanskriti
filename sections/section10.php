@@ -56,7 +56,7 @@
 
         <div class="tab-btn" data-tab="tab-accommodation">
           <div class="dz-box">
-            <img src="images/pic2.png" alt="">
+            <img src="images/pic2.jpeg" alt="">
             <div class="dz-info">
               <span>Accommodation</span>
               <h5>Clean &amp; Comfy</h5>

@@ -15,7 +15,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'DM Sans', sans-serif;
+  /* font-family: 'Cormorant Garamond', serif; */
 }
 
 a {
@@ -34,6 +34,7 @@ header {
   position: sticky;
   top: 0;
   z-index: 1000;
+  font-family: 'Cormorant Garamond', serif;
 }
 
 /* LOGO */
@@ -177,6 +178,10 @@ header img {
     gap: 15px;
   }
 
+  .nav button {
+    padding: 10px 40px;
+  }
+
   .dropdown-menu {
     position: static;
     width: 100%;
@@ -196,7 +201,7 @@ header img {
 </style>
 
 <header >
-  <img src="images/logo2.png" alt="logo">
+  <a href="index.php"><img src="images/logo.jpeg" alt="logo"></a>
 
   <button class="bars-btn" id="menuBtn">
     <i class="fa-solid fa-bars"></i>
@@ -205,7 +210,7 @@ header img {
   <div class="nav" id="menu">
     <ul class="nav-ul">
       <li><a href="index.php">Home</a></li>
-      <li>About</li>
+      <li><a href="about.php">About</a></li>
 
       <li id="courseBtn">
         Yoga Courses
@@ -221,7 +226,7 @@ header img {
         </ul>
       </li>
 
-      <li>Contact</li>
+      <li><a href="contact.php">Contact Us</a></li>
     </ul>
 
     <a href="registration.php">

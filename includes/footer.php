@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-md-6 col-lg-4 col-sm-6 m-b30">
                     <div class="footer-logo logo-left">
-                        <a href="index.html"><img src="images/logo2.png" alt="logo"></a>
+                        <a href="index.html"><img src="images/logo.jpeg" alt="logo"></a>
                     </div>
                     <div class="widget widget_getintuch m-0 wow fadeInUp" data-wow-delay="0.2s" style="visibility: visible;">
                         <ul>

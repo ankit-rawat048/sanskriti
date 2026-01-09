@@ -148,7 +148,7 @@
     <div class="row">
       <div class="col-6 fade-in">
         <div class="dz-media">
-          <img src="images/200-hr-multistyley.png" alt="Yoga Course">
+          <img src="images/200-hr-multistyle.jpeg" alt="Yoga Course">
         </div>
       </div>
 

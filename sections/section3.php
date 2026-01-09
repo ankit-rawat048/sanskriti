@@ -118,7 +118,7 @@
       <div class="swiper-slide">
         <div class="image-box-wrapper">
           <div class="dz-media">
-            <img src="images/pic1.png" alt="Accommodation">
+            <img src="images/pic1.jpeg" alt="Accommodation">
           </div>
           <div class="dz-content">
             <h5 class="dz-title">
@@ -135,7 +135,7 @@
       <div class="swiper-slide">
         <div class="image-box-wrapper">
           <div class="dz-media">
-            <img src="images/pic2.png" alt="Yogic Food">
+            <img src="images/pic2.jpeg" alt="Yogic Food">
           </div>
           <div class="dz-content">
             <h5 class="dz-title">
@@ -152,7 +152,7 @@
       <div class="swiper-slide">
         <div class="image-box-wrapper">
           <div class="dz-media">
-            <img src="images/pic3.png" alt="Transportation">
+            <img src="images/pic3.jpeg" alt="Transportation">
           </div>
           <div class="dz-content">
             <h5 class="dz-title">

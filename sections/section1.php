@@ -27,7 +27,7 @@
 <style>
 /* HERO WRAPPER */
 .hero {
-  background: linear-gradient(to right, #e2adc273, #ffffff);
+  /* background: linear-gradient(to right, #e2adc273, #ffffff); */
   padding: 80px 20px;
 }
 
@@ -101,8 +101,8 @@
 /* IMAGE */
 .img {
   width: 50%;
-  height: 420px;
-  background-image: url("images/girl.png");
+  height: 550px;
+  background-image: url("images/girl.jpeg");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;

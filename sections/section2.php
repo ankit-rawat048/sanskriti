@@ -1,6 +1,6 @@
 <!-- Mobile Only Section -->
 <section class="mobile-info">
-  <img src="images/logo2.png" alt="Yoga Institute Logo">
+  <img src="images/logo.jpeg" alt="Yoga Institute Logo">
 
   <h2>Comprehensive Curriculum</h2>
 
