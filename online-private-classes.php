@@ -33,25 +33,31 @@
       padding: 0 20px;
     }
 
-    section {
-      padding: 80px 0;
+    .c-nneed {
+      visibility:hidden;
     }
 
-    /* ===== Hero ===== */
+    section {
+      padding: 70px 0;
+    }
+  /* ===== Hero Section ===== */
     .hero {
-      background: #d46793;
+      background:/* linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)), */url("udatedImg/WhatsApp Image 2026-01-12 at 13.27.03.jpeg")
+        center/cover no-repeat;
       color: #fff;
       text-align: center;
-      padding: 100px 0;
+      /* padding: 140px 0; */
+      height: 80vh;
     }
 
     .hero h1 {
       font-size: 44px;
+      font-weight: 700;
       margin-bottom: 15px;
     }
 
     .hero p {
-      max-width: 900px;
+      max-width: 750px;
       margin: auto;
       font-size: 18px;
       opacity: 0.95;
@@ -210,7 +216,7 @@
 
   <!-- HERO -->
   <section class="hero">
-    <div class="container">
+    <div class="container c-nneed">
       <h1>Online Private Yoga Classes</h1>
       <p>
         Personalized 1-on-1 live yoga sessions designed exclusively for your body, goals, and lifestyle — guided by experienced yoga teachers from Rishikesh.
